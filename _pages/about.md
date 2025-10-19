@@ -23,8 +23,9 @@ My research interests include intelligent transportation systems, reinforcement 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;🎉🎉 Our paper on bi-level control at weaving sections has been accepted by T-ITS!.
+- *2025.08*: &nbsp;🎉🎉 Our paper on UAV swarm control has been accepted by ACC!. 
+- *2023.09*: &nbsp;🎉🎉 Our paper on traffic accident disposal has been accepted by AAP!. 
 
 # 📝 Publications 
 
