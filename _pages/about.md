@@ -24,7 +24,7 @@ My research interests include intelligent transportation systems, reinforcement 
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Our paper on bi-level control at weaving sections has been accepted by T-ITS!.
-- *2025.08*: &nbsp;🎉🎉 Our paper on UAV swarm control has been accepted by ACC!. 
+- *2025.07*: &nbsp;🎉🎉 Our paper on UAV swarm control has been accepted by ACC!. 
 - *2023.09*: &nbsp;🎉🎉 Our paper on traffic accident disposal has been accepted by AAP!. 
 
 # 📝 Publications 
@@ -41,27 +41,27 @@ My research interests include intelligent transportation systems, reinforcement 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/EG_predictor_ACC_page.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Control-Aware Trajectory Prediction for Communication-Free Drone Swarm Coordination in Cluttered Environments](https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/abstract/document/11107792)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/abstract/document/11107792) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a control-aware trajectory prediction method for UAV swarms in a non-communication environment. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/PD_MADDPG_Diagram.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[A task-level emergency experience reuse method for freeway accidents onsite disposal with policy distilled reinforcement learning](sciencedirect.com/science/article/abs/pii/S0001457523002269)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](sciencedirect.com/science/article/abs/pii/S0001457523002269) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose an emergency experience reuse method for freeway accidents onsite disposal with policy distilled reinforcement learning. 
 </div>
 </div>
 
