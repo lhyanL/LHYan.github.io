@@ -41,24 +41,24 @@ My research interests include intelligent transportation systems, reinforcement 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/EG_predictor_ACC_page.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACC 2025</div><img src='images/EG_predictor_ACC_page.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Control-Aware Trajectory Prediction for Communication-Free Drone Swarm Coordination in Cluttered Environments](https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/abstract/document/11107792)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Longhao Yan**, Jingyuan Zhou, Kaidi Yang
 
 [**Paper**](https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/abstract/document/11107792) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a control-aware trajectory prediction method for UAV swarms in a non-communication environment. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/PD_MADDPG_Diagram.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAP 2023</div><img src='images/PD_MADDPG_Diagram.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A task-level emergency experience reuse method for freeway accidents onsite disposal with policy distilled reinforcement learning](sciencedirect.com/science/article/abs/pii/S0001457523002269)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Longhao Yan**, Ping Wang, Fan Qi, Zhuohang Xu, Ronghui Zhang, Yu Han
 
 [**Paper**](sciencedirect.com/science/article/abs/pii/S0001457523002269) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose an emergency experience reuse method for freeway accidents onsite disposal with policy distilled reinforcement learning. 
@@ -72,8 +72,9 @@ My research interests include intelligent transportation systems, reinforcement 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.06 - now*, Doctor of Philosophy, Civil and Engineering (Specialised in Transportation), National University of Singapore, Singapore.
+- *2019.09 - 2022.06*, Master of Engineering, Control Science and Engineering, Chang'an University, Xi'an, China. 
+- *2015.09 - 2019.06*, Bachelor of Engineering, Automation, Chang'an University, Xi'an, China. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
