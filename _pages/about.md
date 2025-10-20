@@ -29,14 +29,14 @@ My research interests include intelligent transportation systems, reinforcement 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS 2025</div><img src='images/Bi_Level_Framework_page.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bi-Level Control of Weaving Sections in Mixed Traffic Environments With Connected and Automated Vehicles](https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/abstract/document/11176177)
 
 **Longhao Yan**, Jinhao Liang, Kaidi Yang
 
-% [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/stamp/stamp.jsp?tp=&arnumber=11176177) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a bi-level control framework for global coordinated lane change control in weaving section with mixed traffic. 
 </div>
 </div>
