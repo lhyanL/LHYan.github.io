@@ -12,7 +12,7 @@ redirect_from:
 
 I’m a fourth-year Ph.D. candidate in the [Department of Civil and Environmental Engineering](https://cde.nus.edu.sg/cee/), [National University of Singapore](https://www.nus.edu.sg/), advised by [Prof. Kaidi Yang](https://sites.google.com/view/kaidiyang/).
 
-My research lies at the intersection of intelligent transportation systems, reinforcement learning, and control. I develop algorithms for traffic operations and decision/control of networked agents, with applications in autonomous driving, UAV swarm prediction&control, and incident management.
+My research lies at the intersection of intelligent transportation systems, reinforcement learning, and control. I develop algorithms for traffic operations and decision/control of networked agents, with applications in autonomous driving, UAV swarm prediction and control, and incident management.
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Our paper on bi-level control at weaving sections was accepted by **IEEE T-ITS**!
