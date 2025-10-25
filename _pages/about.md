@@ -17,6 +17,7 @@ My research lies at the intersection of intelligent transportation systems, rein
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Our paper on bi-level control at weaving sections was accepted by **IEEE T-ITS**!
 - *2025.07*: &nbsp;🎉🎉 Our paper on control-aware trajectory prediction for UAV swarms was accepted by **ACC 2025**!
+- *2025.07*: &nbsp;🎉🎉 Our paper on safe mixed-autonomy platoon control was accepted by **ACC 2025**!
 - *2023.09*: &nbsp;🎉🎉 Our paper on policy-distilled RL for freeway accident disposal was accepted by **Accident Analysis & Prevention**!
 
 # 📝 Publications
@@ -78,7 +79,7 @@ My research lies at the intersection of intelligent transportation systems, rein
 
 - **A Task-Level Emergency Experience Reuse Method for Freeway Accidents Onsite Disposal with Policy-Distilled Reinforcement Learning**  
   **Longhao Yan**, Ping Wang, Fan Qi, Zhuohang Xu, Ronghui Zhang, Yu Han. *Accident Analysis & Prevention, 2023.*  
-  Vol. 190, 107179. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0001457523002269)
+  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0001457523002269)
 
 - **Collaborative Decision-Making Method of Emergency Response for Highway Incidents** *(co-first author)*  
   Junfeng Yao, **Longhao Yan**, Zhuohang Xu, Ping Wang, Xinming Zhao. *Sustainability, 2023.*  
@@ -91,7 +92,15 @@ My research lies at the intersection of intelligent transportation systems, rein
 ### Conference / Workshop
 - **Control-Aware Trajectory Prediction for Communication-Free Drone Swarm Coordination in Cluttered Environments**  
   **Longhao Yan**, Jingyuan Zhou, Kaidi Yang. *American Control Conference (ACC), 2025.*  
-  [Paper](https://arxiv.org/abs/2401.12852)
+  [Paper](https://ieeexplore.ieee.org/abstract/document/11107792)
+
+- **Safe Reinforcement Learning for Mixed-Autonomy Platoons: A Cooperative Control Barrier Function Approach**  
+  Jingyuan Zhou, **Longhao Yan**, Jinhao Liang, Kaidi Yang. *American Control Conference (ACC), 2025.*  
+  [Paper](https://ieeexplore.ieee.org/abstract/document/11108112)
+
+- **Synthesis and Verification of String Stable Control for Interconnected Systems via Neural sISS Certificate**
+  Jingyuan Zhou, Haoze Wu, **Longhao Yan**, Kaidi Yang. *ICLR Workshop VerifAI Workshop, 2025.*
+  [Paper](https://openreview.net/forum?id=s4jFuCayIa)
 
 - **Safe-Enhanced Autonomous Driving Technology Using Conformal Prediction Results**  
   Jinhao Liang, Ruoyu Fang, Zicheng Fang, **Longhao Yan**, Chaopeng Tan, Qiong Tian. *Journal of Physics: Conference Series (JPCS), 2024.*  
