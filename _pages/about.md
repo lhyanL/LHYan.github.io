@@ -144,6 +144,12 @@ My research lies at the intersection of intelligent transportation systems, rein
 ---
 -->
 
+### Journal Reviewer
+- IEEE T-ITS
+
+### Conference Reviewer
+- ACC
+
 ## 🎖 Honors and Awards
 - *2022* Distinguished Post-Graduate Graduate, Chang’an University  
 - *2021–2020* Second-Prize Scholarship, Chang’an University (rank 9/78)  
@@ -162,4 +168,4 @@ My research lies at the intersection of intelligent transportation systems, rein
 - *2022 – Present*, Ph.D., Transportation (Civil & Environmental Engineering), National University of Singapore, Singapore
 - *2019 – 2022*, M.Eng., Control Science and Engineering (Exempted Admission), Chang’an University, Xi’an, China
 <!-- - *2021.08 – 2021.10*, Online Tutorial Course, “Neuroscience-Inspired Artificial Intelligence”, Regent’s Park College, University of Oxford (Tutor: Dr. Odhran O’Donoghue) -->
-- *2015 – 2019*, B.S., Automation (National Scientific Base for Talented Persons), Chang’an University, Xi’an, China
+- *2015 – 2019*, B.Eng., Automation (National Scientific Class for Talented Persons), Chang’an University, Xi’an, China
