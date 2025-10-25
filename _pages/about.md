@@ -20,7 +20,7 @@ My research lies at the intersection of intelligent transportation systems, rein
 - *2025.07*: &nbsp;🎉🎉 Our paper on control-aware trajectory prediction for UAV swarms was accepted by **ACC 2025**!
 - *2025.07*: &nbsp;🎉🎉 Our paper on safe mixed-autonomy platoon control was accepted by **ACC 2025**!
 - *2025.03*: &nbsp;🎉🎉 Our paper on verification of string stability was accepted by **ICLR Workshop 2025**!
-- *2024.03*: &nbsp;🎉🎉 Our paper on system-level safe platoon control was accepted by **IEEE T-IV 2024**!
+- *2024.03*: &nbsp;🎉🎉 Our paper on system-level safe platoon control was accepted by **IEEE T-IV**!
 - *2024.01*: &nbsp;🎉🎉 Our paper on safe vehicle control with conformal prediction was accepted by **JPCS 2024**!
 - *2023.09*: &nbsp;🎉🎉 Our paper on policy-distilled RL for freeway accident disposal was accepted by **Accident Analysis & Prevention**!
 - *2023.03*: &nbsp;🎉🎉 Our paper on DRL-based platton control was accepted by **ITSC 2023**!
