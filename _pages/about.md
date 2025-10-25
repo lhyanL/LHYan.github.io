@@ -12,7 +12,7 @@ redirect_from:
 
 I’m a fourth-year Ph.D. candidate in the [Department of Civil and Environmental Engineering](https://cde.nus.edu.sg/cee/), [National University of Singapore](https://www.nus.edu.sg/), advised by [Prof. Kaidi Yang](https://sites.google.com/view/kaidiyang/).
 
-My research lies at the intersection of intelligent transportation systems, reinforcement learning, and control. I develop algorithms for traffic operations and decision/control of networked agents, with applications in autonomous driving (weaving-section coordination), UAV swarm prediction/control, and incident management.
+My research lies at the intersection of intelligent transportation systems, reinforcement learning, and control. I develop algorithms for traffic operations and decision/control of networked agents, with applications in autonomous driving, UAV swarm prediction&control, and incident management.
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Our paper on bi-level control at weaving sections was accepted by **IEEE T-ITS**!
@@ -36,6 +36,7 @@ My research lies at the intersection of intelligent transportation systems, rein
 </div>
 </div>
 
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><img src='images/EG_predictor_ACC_page.jpg' alt="UAV control-aware prediction" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -43,11 +44,12 @@ My research lies at the intersection of intelligent transportation systems, rein
 **Longhao Yan**, Jingyuan Zhou, Kaidi Yang  
 **American Control Conference (ACC), 2025**
 
-[**arXiv**](https://arxiv.org/abs/2401.12852)
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/11107792)
 
 - A control-aware learning-based trajectory predictor enabling communication-efficient swarm coordination in cluttered spaces.
 </div>
 </div>
+-->
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/PD_MADDPG_Diagram.jpg' alt="Emergency disposal RL" width="100%"></div>
 <div class='paper-box-text' markdown="1">
