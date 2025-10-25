@@ -154,10 +154,10 @@ My research lies at the intersection of intelligent transportation systems, rein
 -->
 
 ### Journal Reviewer
-- IEEE T-ITS
+- IEEE Transactions on Intelligent Transportation Systems (T-ITS)
 
 ### Conference Reviewer
-- ACC
+- American Control Conference (ACC)
 
 ## 🎖 Honors and Awards
 - *2022* Distinguished Post-Graduate Graduate, Chang’an University  
