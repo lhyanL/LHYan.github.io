@@ -125,7 +125,7 @@ My research lies at the intersection of intelligent transportation systems, rein
   CN110390341B, **Granted**: Dec. 2022.
 
 ---
-<! -- 
+<!-- 
 ## 📚 Academic Services
 > Replace “(TBD)” with your actual records when ready.
 
@@ -142,7 +142,6 @@ My research lies at the intersection of intelligent transportation systems, rein
 - (TBD) *(e.g., ACC, CDC, ITSC, ICRA, IV, CVPR, NeurIPS, ICCV, IROS, …)*
 
 ---
-
 -->
 
 ## 🎖 Honors and Awards
@@ -162,5 +161,5 @@ My research lies at the intersection of intelligent transportation systems, rein
 ## 📖 Education
 - *2022 – Present*, Ph.D., Transportation (Civil & Environmental Engineering), National University of Singapore, Singapore
 - *2019 – 2022*, M.Eng., Control Science and Engineering (Exempted Admission), Chang’an University, Xi’an, China
-- *2021.08 – 2021.10*, Online Tutorial Course, “Neuroscience-Inspired Artificial Intelligence”, Regent’s Park College, University of Oxford (Tutor: Dr. Odhran O’Donoghue)
+<!-- - *2021.08 – 2021.10*, Online Tutorial Course, “Neuroscience-Inspired Artificial Intelligence”, Regent’s Park College, University of Oxford (Tutor: Dr. Odhran O’Donoghue) -->
 - *2015 – 2019*, B.S., Automation (National Scientific Base for Talented Persons), Chang’an University, Xi’an, China
