@@ -69,7 +69,7 @@ My research lies at the intersection of intelligent transportation systems, rein
   [Paper](https://ieeexplore.ieee.org/abstract/document/11176177)
 
 - **Interaction-Aware Trajectory Prediction for Safe Motion Planning in Autonomous Driving: A Transformer-Transfer Learning Approach**  
-  Jinhao Liang, Chaopeng Tan, **Longhao Yan**, Jingyuan Zhou, Guodong Yin, Kaidi Yang. *arXiv, 2024.*  
+  Jinhao Liang, Chaopeng Tan, **Longhao Yan**, Jingyuan Zhou, Guodong Yin, Kaidi Yang. *IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025.*   
   [Paper](https://ieeexplore.ieee.org/abstract/document/11087741)
 
 - **Enhancing System-Level Safety in Mixed-Autonomy Platoon via Safe Reinforcement Learning**  
