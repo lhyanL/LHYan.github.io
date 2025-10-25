@@ -23,7 +23,7 @@ My research lies at the intersection of intelligent transportation systems, rein
 # 📝 Publications
 ## Highlights
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/Bi_Level_Framework_page.jpg' alt="Bi-level control framework" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/EG_Diagrams_page.jpg' alt="Bi-level control framework" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Bi-Level Control of Weaving Sections in Mixed Traffic Environments With Connected and Automated Vehicles**  
