@@ -15,6 +15,7 @@ I’m a fourth-year Ph.D. candidate in the [Department of Civil and Environmenta
 My research lies at the intersection of intelligent transportation systems, reinforcement learning, and control. I develop algorithms for traffic operations and decision/control of networked agents, with applications in autonomous driving, UAV swarm prediction and control, and incident management.
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 Our paper on cooperative mixed-autonomy platoon control was accepted by **IEEE T-ITS**!
 - *2025.09*: &nbsp;🎉🎉 Our paper on bi-level control at weaving sections was accepted by **IEEE T-ITS**!
 - *2025.07*: &nbsp;🎉🎉 Our paper on interaction-aware trajectory prediction was accepted by **IEEE T-ITS**!
 - *2025.07*: &nbsp;🎉🎉 Our paper on control-aware trajectory prediction for UAV swarms was accepted by **ACC 2025**!
@@ -75,6 +76,10 @@ My research lies at the intersection of intelligent transportation systems, rein
 ## All Publications
 
 ### Journal
+- **Enforcing cooperative safety for reinforcement learning-based mixed-autonomy platoon control**  
+   Jingyuan Zhou, **Longhao Yan**, Jinhao Liang, Kaidi Yang. *IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025.*  
+  [Paper](https://ieeexplore.ieee.org/abstract/document/11277300/)
+  
 - **Bi-Level Control of Weaving Sections in Mixed Traffic Environments With Connected and Automated Vehicles**  
   **Longhao Yan**, Jinhao Liang, Kaidi Yang. *IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025.*  
   [Paper](https://ieeexplore.ieee.org/abstract/document/11176177)
@@ -129,10 +134,6 @@ My research lies at the intersection of intelligent transportation systems, rein
   [Paper](https://ieeexplore.ieee.org/abstract/document/9248231)
 
 ### Preprint
-- **Enforcing Cooperative Safety for Reinforcement Learning-based Mixed-Autonomy Platoon Control**  
-  Jingyuan Zhou, **Longhao Yan**, Jinhao Liang, Kaidi Yang. *arXiv, 2024.*  
-  [Paper](https://arxiv.org/abs/2411.10031)
-
 - **Control-Aware Trajectory Predictions for Communication-Efficient Drone Swarm Coordination in Cluttered Environments**  
   **Longhao Yan**, Jingyuan Zhou, Kaidi Yang. *arXiv, 2024.*  
   [Paper](https://arxiv.org/abs/2401.12852)
