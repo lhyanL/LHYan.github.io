@@ -113,6 +113,10 @@ My research lies at the intersection of intelligent transportation systems, rein
 - **Safe Reinforcement Learning for Mixed-Autonomy Platoons: A Cooperative Control Barrier Function Approach**  
   Jingyuan Zhou, **Longhao Yan**, Jinhao Liang, Kaidi Yang. *American Control Conference (ACC), 2025.*  
   [Paper](https://ieeexplore.ieee.org/abstract/document/11108112)
+ 
+- **RBCBF: Decoding Time Safety Alignment via Risk Guided Rollback and Barrier Control**  
+  Tianxiang Chen, Jingyuan Zhou, **Longhao Yan**, Kaidi Yang. *International Conference on Machine Learning (ICML), 2026.*  
+  [Paper](https://openreview.net/forum?id=WpvC0zpcw3)
 
 - **Synthesis and Verification of String Stable Control for Interconnected Systems via Neural sISS Certificate**
   Jingyuan Zhou, Haoze Wu, **Longhao Yan**, Kaidi Yang. *ICLR Workshop VerifAI Workshop, 2025.*
