@@ -114,8 +114,8 @@ My research lies at the intersection of intelligent transportation systems, rein
   Jingyuan Zhou, **Longhao Yan**, Jinhao Liang, Kaidi Yang. *American Control Conference (ACC), 2025.*  
   [Paper](https://ieeexplore.ieee.org/abstract/document/11108112)
  
-- **RBCBF: Decoding Time Safety Alignment via Risk Guided Rollback and Barrier Control**  
-  Tianxiang Chen, Jingyuan Zhou, **Longhao Yan**, Kaidi Yang. *International Conference on Machine Learning (ICML), 2026.*  
+- **RBCBF: Decoding Time Safety Alignment via Risk Guided Rollback and Barrier Control**
+  Tianxiang Chen, Jingyuan Zhou, **Longhao Yan**, Kaidi Yang. *International Conference on Machine Learning (ICML), 2026.*
   [Paper](https://openreview.net/forum?id=WpvC0zpcw3)
 
 - **Synthesis and Verification of String Stable Control for Interconnected Systems via Neural sISS Certificate**
