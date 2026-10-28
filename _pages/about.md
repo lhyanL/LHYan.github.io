@@ -34,28 +34,28 @@ My research lies at the intersection of intelligent transportation systems, rein
 ## Highlights
 
 <!-- 1 -->
-<div class='paper-box'><div class='paper-box-image'><img src='images/EG_Diagrams_page.jpg' alt="Bi-level control framework" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/HFG-MAIRL_Diagram.png' alt="HFG-MAIRL framework" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**Bi-Level Control of Weaving Sections in Mixed Traffic Environments With Connected and Automated Vehicles**  
+**Human-Feedback-Guided Multi-Agent Inverse Reinforcement Learning for Interactive Driving Behavior Modeling**  
 **Longhao Yan**, Jinhao Liang, Kaidi Yang  
-**IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025**
+**ArXiv, 2026**
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/11176177) 
+[**Paper**](https://arxiv.org/abs/2610.33726) 
 
 - A human-feedback-guided multi-agent inverse reinforcement learning framework combining localized Markov games, marginal-response approximations, and ordinal preference learning for interactive driving behavior modeling.
 </div>
 </div>
 
 <!-- 2 -->
-<div class='paper-box'><div class='paper-box-image'><img src='images/EG_Diagrams_page.jpg' alt="Bi-level control framework" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/TADER.png' alt="TADER framework" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**Bi-Level Control of Weaving Sections in Mixed Traffic Environments With Connected and Automated Vehicles**  
+**Traffic-Context-Aware Driver Emotion Recognition with Expectation-Deviation-Driven Inference**  
 **Longhao Yan**, Jinhao Liang, Kaidi Yang  
-**IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025**
+**ArXiv, 2026**
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/11176177) 
+[**Paper**](https://arxiv.org/abs/2610.33713) 
 
 - A traffic-context-aware driver emotion recognition framework that integrates facial features with trajectory-based expectation deviations to improve emotion recognition in interactive driving scenarios.
 </div>
@@ -76,7 +76,7 @@ My research lies at the intersection of intelligent transportation systems, rein
 </div>
 
 <!-- 4 -->
-<div class='paper-box'><div class='paper-box-image'><img src='images/EG_Diagrams_page.jpg' alt="Bi-level control framework" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/Principle_Diagram_TASE.pdf' alt="CATP framework" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Control-Aware Trajectory Predictions for Communication-Efficient Drone Swarm Coordination in Cluttered Environments**  
