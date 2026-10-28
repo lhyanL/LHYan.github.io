@@ -139,6 +139,14 @@ My research lies at the intersection of intelligent transportation systems, rein
   [Paper](https://ieeexplore.ieee.org/abstract/document/9248231)
 
 ### Preprint
+- **Human-Feedback-Guided Multi-Agent Inverse Reinforcement Learning for Interactive Driving Behavior Modeling**  
+  **Longhao Yan**, Jinhao Liang, Kaidi Yang. *arXiv, 2026.*  
+  [Paper](https://arxiv.org/abs/2610.33726)
+
+- **Traffic-Context-Aware Driver Emotion Recognition with Expectation-Deviation-Driven Inference**  
+  **Longhao Yan**, Jinhao Liang, Kaidi Yang. *arXiv, 2026.*  
+  [Paper](https://arxiv.org/abs/2610.33713)
+  
 - **Control-Aware Trajectory Predictions for Communication-Efficient Drone Swarm Coordination in Cluttered Environments**  
   **Longhao Yan**, Jingyuan Zhou, Kaidi Yang. *arXiv, 2024.*  
   [Paper](https://arxiv.org/abs/2401.12852)
