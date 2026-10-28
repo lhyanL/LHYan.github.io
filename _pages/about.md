@@ -12,7 +12,7 @@ redirect_from:
 
 I’m a fourth-year Ph.D. candidate in the [Department of Civil and Environmental Engineering](https://cde.nus.edu.sg/cee/), [National University of Singapore](https://www.nus.edu.sg/), advised by [Prof. Kaidi Yang](https://sites.google.com/view/kaidiyang/).
 
-My research lies at the intersection of intelligent transportation systems, reinforcement learning, and control theory. I develop algorithms for traffic operations and decision-making of networked agents, with applications in autonomous driving, UAV swarm prediction and control, and incident management.
+My research lies at the intersection of intelligent transportation systems, reinforcement learning, and control theory. I develop algorithms for traffic operations and decision-making of networked agents, with applications in autonomous driving, UAV swarm prediction and control, and incident management. Find my latest resume at [Here](https://drive.google.com/file/d/1XmeC4V71IE0ysqh_cY8tvgZCDbGWrSqY/view?usp=sharing)
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 Our paper on rollback-based LLM safety alignment was accepted by **ICML 2026**!
