@@ -76,7 +76,7 @@ My research lies at the intersection of intelligent transportation systems, rein
 </div>
 
 <!-- 4 -->
-<div class='paper-box'><div class='paper-box-image'><img src='images/Principle_Diagram_TASE.pdf' alt="CATP framework" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/Principle_Diagram_TASE_page-0001.jpg' alt="CATP framework" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Control-Aware Trajectory Predictions for Communication-Efficient Drone Swarm Coordination in Cluttered Environments**  
