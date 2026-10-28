@@ -33,6 +33,35 @@ My research lies at the intersection of intelligent transportation systems, rein
 # 📝 Publications
 ## Highlights
 
+<!-- 1 -->
+<div class='paper-box'><div class='paper-box-image'><img src='images/EG_Diagrams_page.jpg' alt="Bi-level control framework" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Bi-Level Control of Weaving Sections in Mixed Traffic Environments With Connected and Automated Vehicles**  
+**Longhao Yan**, Jinhao Liang, Kaidi Yang  
+**IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025**
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/11176177) 
+
+- A human-feedback-guided multi-agent inverse reinforcement learning framework combining localized Markov games, marginal-response approximations, and ordinal preference learning for interactive driving behavior modeling.
+</div>
+</div>
+
+<!-- 2 -->
+<div class='paper-box'><div class='paper-box-image'><img src='images/EG_Diagrams_page.jpg' alt="Bi-level control framework" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Bi-Level Control of Weaving Sections in Mixed Traffic Environments With Connected and Automated Vehicles**  
+**Longhao Yan**, Jinhao Liang, Kaidi Yang  
+**IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025**
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/11176177) 
+
+- A traffic-context-aware driver emotion recognition framework that integrates facial features with trajectory-based expectation deviations to improve emotion recognition in interactive driving scenarios.
+</div>
+</div>
+
+<!-- 3 -->
 <div class='paper-box'><div class='paper-box-image'><img src='images/EG_Diagrams_page.jpg' alt="Bi-level control framework" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -46,21 +75,21 @@ My research lies at the intersection of intelligent transportation systems, rein
 </div>
 </div>
 
-<!-- 
-<div class='paper-box'><div class='paper-box-image'><img src='images/EG_predictor_ACC_page.jpg' alt="UAV control-aware prediction" width="100%"></div>
+<!-- 4 -->
+<div class='paper-box'><div class='paper-box-image'><img src='images/EG_Diagrams_page.jpg' alt="Bi-level control framework" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**Control-Aware Trajectory Prediction for Communication-Free Drone Swarm Coordination in Cluttered Environments**  
-**Longhao Yan**, Jingyuan Zhou, Kaidi Yang  
-**American Control Conference (ACC), 2025**
+**Control-Aware Trajectory Predictions for Communication-Efficient Drone Swarm Coordination in Cluttered Environments**  
+**Longhao Yan**, Jinyuan Zhou, Kaidi Yang  
+**ArXiv, 2024**
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/11107792)
+[**Paper**](https://arxiv.org/abs/2401.12852) 
 
-- A control-aware learning-based trajectory predictor enabling communication-efficient swarm coordination in cluttered spaces.
+- A control-aware trajectory prediction framework combining EvolveGCN and KKT-informed learning with distributed MPC for communication-efficient UAV swarm coordination in cluttered environments.
 </div>
 </div>
--->
 
+<!-- 5 -->
 <div class='paper-box'><div class='paper-box-image'><img src='images/PD_MADDPG_Diagram.jpg' alt="Emergency disposal RL" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
