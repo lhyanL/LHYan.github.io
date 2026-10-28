@@ -206,6 +206,8 @@ My research lies at the intersection of intelligent transportation systems, rein
 ---
 -->
 
+<!-- 
+
 ### Journal Reviewer
 - IEEE Transactions on Intelligent Transportation Systems (T-ITS)
 
@@ -225,6 +227,8 @@ My research lies at the intersection of intelligent transportation systems, rein
 - *2017* First Prize, World Robot Contest (Humanoid Robot Relay Competition)
 
 ---
+-->
+
 
 ## 📖 Education
 - *2022 – Present*, Ph.D., Transportation (Civil & Environmental Engineering), National University of Singapore, Singapore
