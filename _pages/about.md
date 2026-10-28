@@ -28,7 +28,7 @@ My research lies at the intersection of intelligent transportation systems, rein
 - *2023.03*: &nbsp;🎉🎉 Our paper on DRL-based platton control was accepted by **ITSC 2023**!
 - *2023.03*: &nbsp;🎉🎉 Our paper on safe vehicle control with conformal prediction was accepted by **JPCS 2024**!
 - *2023.01*: &nbsp;🎉🎉 Our paper on collaborative decision-making of highway emergency response was accepted by **Sustainability**!
-- *2021.09*: &nbsp;🎉🎉 Our paper on refined path planning for emergency rescue vehicles was accepted by **JAT**!
+<!-- - *2021.09*: &nbsp;🎉🎉 Our paper on refined path planning for emergency rescue vehicles was accepted by **JAT**! -->
 
 # 📝 Publications
 ## Highlights
