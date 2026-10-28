@@ -22,7 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Longhao Yan"
-  avatar           : "images/SunLeaves_square.jpg"
+  # avatar           : "images/SunLeaves_square.jpg"
+  avatar           : "images/NUS证件照YLH.png"
   bio              : "National University of Singapore"
   location         : "Singapore"
   employer         :
